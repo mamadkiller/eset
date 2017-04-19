@@ -3138,7 +3138,7 @@ local function gpro(extra, result, success)
     end
 	-----------------------------------------------------------------------------------------------
   	if text:match("^[Ss]hare$") and is_sudo(msg) then
-       sendContact(msg.chat_id_, msg.id_, 0, 1, nil, 989216973112, 'Sajjad', '021', 158955285)
+       sendContact(msg.chat_id_, msg.id_, 0, 1, nil, 989302555978, '#killer', '021', 158955285)
     end
 	-----------------------------------------------------------------------------------------------
 	if text:match("^[Rr]ename (.*)$") and is_owner(msg.sender_user_id_, msg.chat_id_) then
